@@ -1,0 +1,44 @@
+/* themes/default/assets/css/page.css */
+
+/* Add specific styles for pages here if needed. */
+/* For example: */
+/*
+article.page-about .page-content-body {
+    background-color: #eef;
+}
+*/
+
+.page-content-body ul,
+.page-content-body ol {
+    margin-left: 20px;
+    margin-bottom: 1em;
+}
+
+.page-content-body blockquote {
+    border-left: 4px solid #ccc;
+    margin-left: 0;
+    padding-left: 1em;
+    font-style: italic;
+    color: #555;
+}
+
+.page-content-body pre {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    overflow-x: auto;
+    font-family: monospace;
+}
+
+.page-content-body code {
+    font-family: monospace;
+    background-color: #f0f0f0;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.page-content-body pre code {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+}

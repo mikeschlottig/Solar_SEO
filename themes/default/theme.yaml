@@ -1,0 +1,19 @@
+name: Default
+description: Basic theme for the Flat-File CMS
+version: 1.0
+author: Jules AI Assistant
+
+# Example of how assets could be listed, though not directly used by the current PHP code
+# The PHP code would need to parse this to dynamically include assets.
+# For now, assets are hardcoded in templates or assumed by structure.
+# assets:
+#   css:
+#     - css/style.css
+#     - css/page.css
+#   js:
+#     - js/script.js
+
+# You can add other theme-specific settings here if your theme engine supports them
+# options:
+#   show_breadcrumbs: true
+#   default_sidebar_position: right
